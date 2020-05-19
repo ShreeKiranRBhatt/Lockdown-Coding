@@ -1,5 +1,5 @@
 #include<stdlib.h>
-
+#include<stdio.h>
 int cmpfun (const void * a, const void * b)
 {
 
@@ -62,5 +62,3 @@ void main()
 		}
 	}
 }
-Triplet.c
-Displaying Triplet.c.
